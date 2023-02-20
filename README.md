@@ -1,3 +1,4 @@
+
 # Thanatos
 cc petit peruche
 Xera1337
@@ -6,3 +7,4 @@ c'est le caribou derrière la forêt
 reynuld y est passé 
 ciao
 je mange des plantes
+mais pas de fruits
